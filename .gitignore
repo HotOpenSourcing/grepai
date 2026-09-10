@@ -17,7 +17,6 @@ go.work
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -50,3 +49,5 @@ docs/plans/
 # Example files
 OPENROUTER.md
 openrouter-example.sh
+config.bat
+node_modules
